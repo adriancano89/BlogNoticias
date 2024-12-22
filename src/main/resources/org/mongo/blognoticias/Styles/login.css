@@ -1,0 +1,16 @@
+#tituloIniciarSesion {
+    -fx-font-size: 18px;
+}
+
+.botones {
+    -fx-font-size: 15px;
+}
+
+#textoRegistrarse {
+    -fx-fill: blue;
+    -fx-font-size: 13px;
+}
+
+.etiqueta {
+    -fx-font-size: 15px;
+}
